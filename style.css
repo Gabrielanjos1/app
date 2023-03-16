@@ -1,0 +1,70 @@
+li {
+    list-style: none;
+}
+
+.material-symbols-outlined {
+    font-variation-settings:
+        'FILL' 3,
+        'wght' 900,
+        'GRAD' 100,
+        'opsz' 10;
+    margin-right: 25px;
+    color: rgb(3, 83, 3);
+}
+.center{
+    text-align: center;
+    list-style: none;
+    color: gray;   
+}
+.up{
+    
+}
+.navbar-brand {
+    font-family: 'Lobster', cursive;
+    font-family: 'Righteous', cursive;
+    display: flex;
+    justify-content: center;
+    padding: 100px;
+}
+.frete{
+    text-align: center;
+    background-color: rgb(209, 228, 188);
+}
+.fit {
+    object-fit: cover;
+}
+
+.valor {
+    font-family: 'Lobster', cursive;
+    font-family: 'Righteous', cursive;
+    font-family: 'Truculenta', sans-serif;
+    
+}
+img article{
+    width: 3000px;
+    height: 200px;
+}
+#carousel {
+    object-fit: cover;
+}
+
+.carousel-item {
+}
+
+article{
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: center;
+    padding: 50px 10px 10px 10px;
+    margin: 10px;
+
+}
+article h1{
+    font-family: 'Lobster', cursive;
+font-family: 'Righteous', cursive;
+font-family: 'Truculenta', sans-serif;
+text-align: center;
+}
+p{
+    color: rgb(5, 61, 5);
+}
